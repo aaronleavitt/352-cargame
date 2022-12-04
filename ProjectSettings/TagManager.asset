@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Package
+  - Customer
+  - Boost
+  - Water
+  - Big Boy
+  - Lil Man
+  - Road
+  - Obstacle
+  - Bus
+  - Racer
   layers:
   - Default
   - TransparentFX
